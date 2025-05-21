@@ -1,4 +1,4 @@
-# Hello ji! ✌️
+# Hello ji! <img src="https://avatars.dicebear.com/api/avataaars/vinay-neutral.svg" width="32" height="32" alt="boring avatar" /> ✌️
 
 Welcome to my GitHub — I'm **Vinay Basargekar**.
 
