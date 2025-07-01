@@ -14,8 +14,3 @@ Always eager to learn and build something meaningful.
 
 ---
 
-### Where else to find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-basargekar/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vinayBasargekar/)
-
----
